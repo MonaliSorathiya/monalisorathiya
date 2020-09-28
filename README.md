@@ -60,6 +60,8 @@
 - [Making POST Request with Firebase Database in Angular](https://medium.com/@monalisorathiya8/angular-sending-a-post-request-with-firebase-820f4046c89?source=friends_link&sk=fa2e0c291d9ba8b0e9a38a9089e29f00)
 - [How to Backend (Firebase) Setup?](https://medium.com/@monalisorathiya8/how-to-backend-firebase-setup-1cfa4e54ec76?source=friends_link&sk=f5eb509c59ceceda5a9f4ca688b8ba9d)
 
+### Github Stats
+
 <img align="left" alt="Monali's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=monalisorathiya&show_icons=true&hide_border=true" />
 
 
