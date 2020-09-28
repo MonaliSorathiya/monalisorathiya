@@ -27,44 +27,40 @@
  **Back-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code>
 
 **Front-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
 
 **Databases**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 **Cloud Servers**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code>
 
 **Tools**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
 </p>
 
 ### Latest Blog Posts
 
-- [From Templating engines to REST APIs- The transition](https://medium.com/@suvodeep4119/from-templating-engines-to-rest-apis-the-transition-74d2afeee329)
-- [FireWall Port Manipulation in AWS EC2 managed instances using PowerShell](https://medium.com/tensult/remotely-open-close-firewall-ports-in-ec2-managed-instance-using-powershell-scripts-4d6284ee68eb)
-- [JavaScript TDD using Jest](https://medium.com/@suvodeep4119/javascript-tdd-using-jest-9b535c6be7be)
-- [Getting around BootStrap 4+ dropdown with Custom Directives in Angular](https://medium.com/@suvodeep4119/getting-around-bootstap-4-dropdown-with-custom-directives-in-angular-open-vs-show-a6af8e4b15c8)
+- [Dependency Injection in Angular](https://medium.com/@monalisorathiya8/dependency-injection-in-angular-93172727bc82?source=friends_link&sk=38f04aca619864b96fd728bd22d28478)
+- [How an Angular App gets Loaded and Started?](https://medium.com/@monalisorathiya8/how-an-angular-app-gets-loaded-and-started-828da150dbe9?source=friends_link&sk=8a6628c3069093cadb42ee97a9b8ba65)
+- [Making POST Request with Firebase Database in Angular](https://medium.com/@monalisorathiya8/angular-sending-a-post-request-with-firebase-820f4046c89?source=friends_link&sk=fa2e0c291d9ba8b0e9a38a9089e29f00)
+- [How to Backend (Firebase) Setup?](https://medium.com/@monalisorathiya8/how-to-backend-firebase-setup-1cfa4e54ec76?source=friends_link&sk=f5eb509c59ceceda5a9f4ca688b8ba9d)
 
-<img align="left" alt="suvodeep4119's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suvodeep4119&show_icons=true&hide_border=true" />
+<img align="left" alt="Monali's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=monalisorathiya&show_icons=true&hide_border=true" />
 
 
 
