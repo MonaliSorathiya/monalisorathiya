@@ -61,7 +61,6 @@
 - [How to Backend (Firebase) Setup?](https://medium.com/@monalisorathiya8/how-to-backend-firebase-setup-1cfa4e54ec76?source=friends_link&sk=f5eb509c59ceceda5a9f4ca688b8ba9d)
 
 ### Github Stats
-
 <img align="left" alt="Monali's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=monalisorathiya&show_icons=true&hide_border=true" />
 
 
