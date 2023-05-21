@@ -15,10 +15,6 @@
 <a target="_blank" href="monalisorathiya8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@monalisorathiya8"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 </p>
-  
-### My portfolio : 
-
-[www.monalisorathiya.com](http://monalisorathiya.com/)
 
 ### Languages and Tools:
 
