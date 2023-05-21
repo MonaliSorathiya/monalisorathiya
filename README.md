@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Monali
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### I'm a Front-End Developer.
+### I'm a MEAN Stack Developer.
 
 - 🔭 Currently available for work !
 - 🖥  Currently exploring Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />   Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> and Databases (MongoDB). It is in my opinion the best combination of logical programming and (sometimes) beautiful design.
